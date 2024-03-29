@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-pomodoro/static/css/main.d17d381f.css",
+    "main.js": "/react-pomodoro/static/js/main.9977c886.js",
+    "static/js/453.304c1d08.chunk.js": "/react-pomodoro/static/js/453.304c1d08.chunk.js",
+    "index.html": "/react-pomodoro/index.html",
+    "main.d17d381f.css.map": "/react-pomodoro/static/css/main.d17d381f.css.map",
+    "main.9977c886.js.map": "/react-pomodoro/static/js/main.9977c886.js.map",
+    "453.304c1d08.chunk.js.map": "/react-pomodoro/static/js/453.304c1d08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d17d381f.css",
+    "static/js/main.9977c886.js"
+  ]
+}
